@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-/functions/gkadvisor/node_modules
+functions/gkadvisor/node_modules
 /client/node_modules
 .build
 node_modules
