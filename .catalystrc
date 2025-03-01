@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "10593000000018001",
+      "name": "gkadvisor",
+      "domain": {
+        "id": "10096304983",
+        "name": "gkadvisor-777525758.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "777525758",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
